@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "id": "item0001",
+            "name": "Product 1",
+            "price": 25.00
+        },
+        {
+            "id": "item0002",
+            "name": "I'm a product",
+            "price": 25.00
+        },
+        {
+            "id": "item0003",
+            "name": "I'm a product",
+            "price": 25.00
+        },
+        {
+            "id": "item0004",
+            "name": "I'm a product",
+            "price": 25.00
+        },
+        {
+            "id": "item0005",
+            "name": "I'm a product",
+            "price": 25.00
+        },
+        {
+            "id": "item0006",
+            "name": "I'm a product",
+            "price": 25.00
+        },
+        {
+            "id": "item0007",
+            "name": "I'm a product",
+            "price": 25.00
+        },
+        {
+            "id": "item0008",
+            "name": "I'm a product",
+            "price": 25.00
+        }
+    ]
+}
